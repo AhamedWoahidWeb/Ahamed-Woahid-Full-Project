@@ -1,0 +1,527 @@
+/* ====== extra Small device responsive start ====== */
+@media (max-width: 575px) {
+    #header {
+        width: 100%;
+    }
+
+    #banner_part {
+        width: 100%;
+    }
+
+    .background_head_text h1 {
+        width: 100%;
+        font-size: 68px;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .background_head_text p {
+        width: 100%;
+        font-size: 20px;
+        margin-top: 36px;
+        text-align: center;
+    }
+
+    .banner_clint_image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .about_head h2 {
+        margin-top: 20px;
+    }
+
+    .about_text {
+        margin-top: 70px;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .about_text .abot_head_one {
+        width: 100%;
+        font-size: 27px;
+        text-align: center;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 27px;
+        text-align: center;
+    }
+
+    .about_text .about_head_two {
+        width: 100%;
+        font-size: 20px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .about_experience {
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    .years_image img {
+        width: 45%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .years_image_text h1 {
+        font-size: 40px;
+        text-align: center;
+        margin-top: -10px;
+    }
+
+    .years_image_text h1 span {
+        font-size: 40px;
+    }
+
+    .about_contact {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .about_contact h1 {
+        font-size: 20px;
+    }
+
+    .about_contact h1 span {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .about_location{
+        margin-bottom: 50px;
+    }
+
+    .services_head h2 {
+        margin-top: 20px;
+    }
+
+    .services_cart {
+        margin: 0 auto;
+        margin-bottom: 111px;
+    }
+
+    .project_title_about p {
+        width: 100%;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .project_image_one{
+        text-align: center;
+    }
+
+    .project_image_one img {
+        margin-bottom: 120px;
+    }
+
+    .contact_title_text p {
+        margin: 0 auto;
+        width: 100%;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 110px;
+    }
+
+    .location {
+        margin: 0 auto;
+        margin-bottom: -60px;
+        margin-left: 100px;
+    }
+
+    .copyright_text p {
+        text-align: center;
+    }
+}
+
+/* ------ extra Small device responsive end ------ */
+
+/* ====== Small device responsive start ====== */
+@media (min-width: 576px) and (max-width: 767px) {
+
+    #header {
+        width: 100%;
+    }
+
+    #banner_part {
+        width: 100%;
+    }
+
+    .background_head_text h1 {
+        width: 100%;
+        font-size: 64px;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .background_head_text p {
+        width: 100%;
+        font-size: 21px;
+        margin-top: 36px;
+        text-align: center;
+    }
+
+    .banner_clint_image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .about_head h2 {
+        margin-top: 20px;
+    }
+
+    .about_text {
+        margin-top: 70px;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .about_text .abot_head_one {
+        width: 100%;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 27px;
+        text-align: center;
+    }
+
+    .about_text .about_head_two {
+        width: 100%;
+        font-size: 21px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .about_experience {
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    .years_image img {
+        width: 45%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .years_image_text h1 {
+        font-size: 40px;
+        text-align: center;
+        margin-top: -10px;
+    }
+
+    .years_image_text h1 span {
+        font-size: 40px;
+    }
+
+    .about_contact {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .about_contact h1 {
+        font-size: 20px;
+    }
+
+    .about_contact h1 span {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .about_location{
+        margin-bottom: 50px;
+    }
+
+    .services_head h2 {
+        margin-top: 20px;
+    }
+
+    .services_cart {
+        margin: 0 auto;
+        margin-bottom: 111px;
+    }
+
+    .project_title_about p {
+        width: 100%;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .project_image_one{
+        text-align: center;
+    }
+
+    .project_image_one img {
+        margin-bottom: 120px;
+    }
+
+    .contact_title_text p {
+        margin: 0 auto;
+        width: 100%;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 110px;
+    }
+
+    .location {
+        margin: 0 auto;
+        margin-bottom: -60px;
+        margin-left: 100px;
+    }
+
+    .copyright_text p {
+        text-align: center;
+    }
+
+}
+
+
+/* ------ Small device responsive end ------ */
+
+/* ====== medium device responsive start ====== */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    #header {
+        width: 100%;
+    }
+
+    #banner_part {
+        width: 100%;
+    }
+
+    .background_head_text h1 {
+        width: 100%;
+        font-size: 86px;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .background_head_text p {
+        width: 100%;
+        font-size: 25px;
+        margin-top: 36px;
+        text-align: center;
+    }
+
+    .banner_clint_image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .about_head h2 {
+        margin-top: 20px;
+    }
+
+    .about_text {
+        margin-top: 70px;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .about_text .abot_head_one {
+        width: 100%;
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 27px;
+        text-align: center;
+    }
+
+    .about_text .about_head_two {
+        width: 100%;
+        font-size: 25px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .about_experience {
+        margin-left: 50px;
+        text-align: center;
+    }
+
+    .years_image img {
+        width: 45%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .years_image_text h1 {
+        font-size: 40px;
+        text-align: center;
+        margin-top: -10px;
+    }
+
+    .years_image_text h1 span {
+        font-size: 40px;
+    }
+
+    .about_contact {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .about_contact h1 {
+        font-size: 25px;
+    }
+
+    .about_contact h1 span {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .about_location{
+        margin-bottom: 50px;
+    }
+
+    .services_head h2 {
+        margin-top: 20px;
+    }
+
+    .services_cart {
+        margin: 0 auto;
+        margin-bottom: 111px;
+    }
+
+    .project_title_about p {
+        width: 100%;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .project_image_one{
+        text-align: center;
+    }
+
+    .project_image_one img {
+        margin-bottom: 120px;
+    }
+
+    .contact_title_text p {
+        margin: 0 auto;
+        width: 100%;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 110px;
+    }
+
+    .location {
+        margin: 0 auto;
+        margin-bottom: -60px;
+        margin-left: 27%;
+    }
+
+    .copyright_text p {
+        text-align: center;
+    }
+
+}
+
+/* ------ medium device responsive end ------ */
+
+/* ------ large device responsive end ------ */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .logo_text h2 {
+        font-size: 25px;
+    }
+
+    .nav_items ul li a {
+        font-size: 15px;
+    }
+
+    .background_head_text h1 {
+        font-size: 82px;
+    }
+
+    .background_head_text p {
+        font-size: 19px;
+    }
+
+    .banner_clint_image img {
+        width: 525px;
+        height: 0%;
+        margin-left: 25px;
+    }
+
+    .about_text .abot_head_one {
+        font-size: 30px;
+    }
+
+    .about_text .abot_head_one span {
+        font-size: 30px;
+    }
+
+    .about_text .about_head_two {
+        width: 720px;
+        font-size: 22px;
+    }
+
+    .years_image img {
+        margin-top: 20px;
+        margin-left: 4px;
+    }
+
+    .years_image_text h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .years_image_text h1 span {
+        font-size: 23px;
+        text-align: center;
+    }
+
+    .services_cart {
+        width: 300px;
+        padding-top: 28.6px;
+        padding-left: 30px;
+        margin-bottom: 111px;
+    }
+
+    .services_card_text h2 {
+        font-size: 25px;
+        margin-top: 25px;
+    }
+
+    .services_card_text P {
+        width: 100%;
+        font-size: 14px;
+        margin-top: 47px;
+    }
+
+    .project_image_one img {
+        width: 300px;
+        margin-bottom: 130px;
+    }
+
+    .location_text h2 {
+        font-size: 22px;
+    }
+
+    .location_text a {
+        font-size: 18px;
+        margin-bottom: 130px;
+    }
+
+
+
+
+
+}
+
+
+/* ------ large device responsive end ------ */
